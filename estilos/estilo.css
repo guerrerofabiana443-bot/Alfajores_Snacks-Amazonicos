@@ -39,7 +39,7 @@ header{
 /*Aqui voy a personalizar el cuerpo de mi pagina */
 #Contenedor{
     display: flex;
-    min-height: 500px;
+    min-height: 500vh;
     min-height: 100vh;
 }
 #PUBLICIDAD{
@@ -165,7 +165,6 @@ input , textarea{
         padding: 10px;
     }
      #menu{
-        display:  none;
         flex-direction: column;
         gap: 1px;
         padding: 0px;
