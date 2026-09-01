@@ -54,6 +54,8 @@ header{
 #publicidad2{
     width: 20%;
     background-color: #525EA7;
+    box-sizing: border-box;
+    overflow: hidden
 }
 iframe{
     width: 100%;
