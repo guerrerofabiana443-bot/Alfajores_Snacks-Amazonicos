@@ -117,9 +117,6 @@ button:hover{
 }
 .portada img{
     width: 100%;
-}
-.portada img{
-    width: 100%;
     mask-image:linear-gradient(to bottom, rgb(0, 0, 1) 70%, rgb(0, 0, 1) 100%); 
     -webkit-mask-image: linear-gradient( to bottom, black 70%, transparent 100%)
   
